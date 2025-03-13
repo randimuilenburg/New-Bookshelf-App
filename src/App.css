@@ -4,7 +4,13 @@
   padding: 20px;
 }
 
-.book-cover {
+.grid-box {
+  color: pink;
+  border-radius: 5px;
+  border: 2px black solid;
+}
+
+.book-covers {
   height: 100%;
   width: 100%;
 }
